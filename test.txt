@@ -2,3 +2,4 @@ test
 hello
 release
 deploy
+checking update
